@@ -1,0 +1,40 @@
+Scanner class
+
+It is in java.util package
+
+Scanner sc = Scanner(System.in)
+
+int num = sc.nextInt()
+
+ln - for next line during printing
+
+OPERATORS - 
+
+Java operators are special symbols that perform operations on variables or values
+
+TYPES -
+
+Arithmetic Operators   +,-,/,*
+
+Unary Operators   --,++
+
+Assignment Operator
+
+Relational Operators
+
+Logical Operators  AND OR
+
+Ternary Operator
+
+Bitwise Operators
+
+Shift Operators
+
+An instance of an operator
+
+
+CONTROL STATEMENTS - 
+
+1. CONDITIONAL : IF-ELSE, SWITCH(USED WHEN TO CHECK MUTIPLE CONDITIONS)
+2. LOOPS
+
